@@ -1,4 +1,4 @@
-# Bible Translations Database
+# Bible Data for APIs
 
 This repository contains a comprehensive database of Bible translations in JSON format.
 
