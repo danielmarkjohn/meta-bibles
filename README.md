@@ -1,4 +1,4 @@
-# Bible Data for APIs
+# OpenSource Bible APIs SuperSeach Download
 
 This repository contains a comprehensive database of Bible translations in JSON format.
 
